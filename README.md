@@ -12,3 +12,11 @@
 1. [加一](./week01/plus-one.md)
 1. [循环双端队列](./week01/design-circular-deque.md)
 1. 最大矩形，没有独立完成。
+
+## 第二周作业
+
+1. [实现一个简单的 HashMap](./week02/implement-simple-hashmap.md)
+1. [子域名访问计数](./week02/subdomain-visit-count.md)
+1. [数组的度](./week02/degree-of-an-array.md)
+1. [元素和为目标值的子矩阵数量](./week02/number-of-submatrices-that-sum-to-target.md)
+1. [合并 K 个升序链表](./week02/merge-k-sorted-lists.md)
