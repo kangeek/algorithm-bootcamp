@@ -57,10 +57,14 @@ class MyCircularDeque {
     }
     
     public int getFront() {
+        if (this.isEmpty())
+            return -1;
         return nums[front];
     }
     
     public int getRear() {
+        if (this.isEmpty())
+            return -1;
         return nums[(rear + this.size - 1) % this.size];
     }
     
